@@ -19,6 +19,6 @@ Array.prototype.concat = function () {
 };
 
 var test = [1];
-var res = test.concat([2], [3], 1, { a: 1 });
+var res = test.concat([2], [3], 1, { a: 1 }, "1", new Date(), () => {});
 console.log(test);
 console.log(res);
