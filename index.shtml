@@ -7,6 +7,6 @@
     <title>Document</title>
   </head>
   <body>
-    <script type="text/javascript" src="./Array/entries.js"></script>
+    <script type="text/javascript" src="./Array/reverse.js"></script>
   </body>
 </html>
