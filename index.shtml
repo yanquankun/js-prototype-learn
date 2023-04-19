@@ -7,6 +7,6 @@
     <title>Document</title>
   </head>
   <body>
-    <script type="text/javascript" src="./Array/reverse.js"></script>
+    <script type="text/javascript" src="./Array/reduce.js"></script>
   </body>
 </html>
